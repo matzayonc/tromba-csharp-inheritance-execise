@@ -6,7 +6,7 @@ namespace Tromba
 {
     class Settlement
     {
-        public string name { get; };
+        public string name { get; }
 
         public Settlement()
         {

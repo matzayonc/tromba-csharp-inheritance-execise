@@ -6,15 +6,15 @@ namespace Tromba
 {
     class Town: Settlement
     {
-        int population;
-        Town(string name, int numberOfPeople): base(name)
+        protected int population;
+        public Town(string name, int numberOfPeople): base(name)
         {
             population = numberOfPeople;
         }
 
         public void census()
-        {
-            Console.WriteLine("In the city of " + base.name + " live " + population + "people.");
+        { 
+            Console.WriteLine("In the city of " + base.name + " lives " + population + " people.");
         }
     }
 }
