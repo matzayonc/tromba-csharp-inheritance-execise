@@ -1,0 +1,13 @@
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.csprojAssemblyReference.cache
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.AssemblyInfo.cs
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\TrombaCastle\bin\Debug\netcoreapp3.1\TrombaCastle.exe
+C:\Users\mateo\source\repos\TrombaCastle\bin\Debug\netcoreapp3.1\TrombaCastle.deps.json
+C:\Users\mateo\source\repos\TrombaCastle\bin\Debug\netcoreapp3.1\TrombaCastle.runtimeconfig.json
+C:\Users\mateo\source\repos\TrombaCastle\bin\Debug\netcoreapp3.1\TrombaCastle.runtimeconfig.dev.json
+C:\Users\mateo\source\repos\TrombaCastle\bin\Debug\netcoreapp3.1\TrombaCastle.dll
+C:\Users\mateo\source\repos\TrombaCastle\bin\Debug\netcoreapp3.1\TrombaCastle.pdb
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.dll
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.pdb
+C:\Users\mateo\source\repos\TrombaCastle\obj\Debug\netcoreapp3.1\TrombaCastle.genruntimeconfig.cache
